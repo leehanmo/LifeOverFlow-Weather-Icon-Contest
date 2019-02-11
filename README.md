@@ -63,6 +63,7 @@
 
 ## 제출(접수) 방법
 - 라우드소싱 : https://www.loud.kr/contest/view/29296
+- 문의 : ```hml@misemise.co.kr```
 
 >
 
